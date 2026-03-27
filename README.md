@@ -28,6 +28,7 @@ Dashboard Preview
 * Python (Pandas, NumPy, re, datetime)
 * Jupyter Notebook
 * Power BI
+* DAX (Data Analysis Expressions for KPI calculations)
 
 
 ---
