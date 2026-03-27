@@ -48,6 +48,7 @@ Dashboard Preview
 * A portion of customers are at risk of churn
 * Sales trends show seasonal patterns
 * A small number of products drive a large share of revenue
+*  The United Kingdom generates approximately $7.29M out of $8.89M total revenue (~82%), highlighting a strong dependency on a single geographic market
 
 ---
 
